@@ -1,0 +1,1 @@
+CREATE TABLE Author (id int NOT NULL AUTO_INCREMENT, name varchar(200) NOT NULL,   PRIMARY KEY (id) );
